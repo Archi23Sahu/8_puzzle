@@ -1,6 +1,3 @@
-Name : Archi Sahu
-UTA ID : 1002104548
-
 Programming language: JAVA (java version "21")
                                           
 How to run the code:
